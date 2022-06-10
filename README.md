@@ -1,2 +1,2 @@
 # 23_pre_defined_function
-all, any and sort,bool,eval
+all, any, sort,bool and eval
