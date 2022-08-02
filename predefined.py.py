@@ -41,7 +41,7 @@
 # print(bool(' '))#True
 # print(bool(bool))#True
 # for i in reversed([10,5,789,63,5]):
-    # print(i,end=' ')
+    # print(i,end=' ')  #5 63 789 5 10
     
 # for i in reversed((10,5,789,63,5)):
     #  print(i,end=' ')
